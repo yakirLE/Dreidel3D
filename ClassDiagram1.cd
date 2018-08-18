@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Game1" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Camera3DManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIUAIEAAAAADAQAgAAAAAAAAAQAAAAAAABAAAIgABAA=</HashCode>
+      <FileName>Infrastructure\Managers\Camera3DManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Object3D" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQSGAAAgCAAA6AgAQJAAAAAAAAAAARAIEAAACEEABQ=</HashCode>
+      <FileName>Infrastructure\Models\Object3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.VertexPositionColorObject3D" Collapsed="true">
+    <Position X="6" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAQ=</HashCode>
+      <FileName>Infrastructure\Models\VertexPositionColorObject3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.TriangleListColorBox" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAgAQgHAAAQAAACEAAAAAAAAAAAAEFBAYA=</HashCode>
+      <FileName>Models\TriangleListColorBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Program" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex03_Yakir_201049475_Omer_300471430.InputManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQBCAQAAASAAAgAAgAiAAAAAACAAAAEIAgA=</HashCode>
+      <FileName>Infrastructure\Managers\InputManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Infrastructure.Models.PrimitiveObject3D" Collapsed="true">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAUAAAAAACkAAEAAAAAAggAAAIAIIAAA=</HashCode>
+      <FileName>Infrastructure\Models\PrimitiveObject3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Infrastructure.Models.VertexPositionTextureObject3D" Collapsed="true">
+    <Position X="1.5" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACQAABAAAAAAAAAgAAAAAAAAAAAAAEBIAAAAAAAQ=</HashCode>
+      <FileName>Infrastructure\Models\VertexPositionTextureObject3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Managers.GameManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAQAEAAAAgAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Managers\GameManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Models.Dreidel&lt;BodyType&gt;" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EBwAAAAgAAAAARAEASgBAEAAAAAAAAIgEAAAAAJAAAA=</HashCode>
+      <FileName>Models\Dreidel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Models.Player" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABYAABAAAAAAAQhCAAgIAAAAABIAAAAAgAQAAAoAAAA=</HashCode>
+      <FileName>Models\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Models.TriangleListColorDreidel" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABAAAA=</HashCode>
+      <FileName>Models\TriangleListColorDreidel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Models.TriangleListColorDreidelBody" Collapsed="true">
+    <Position X="4.5" Y="9.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAAAAAAAAAAAAAAAAAEAAJgAEAAAAAAAAAAQA=</HashCode>
+      <FileName>Models\TriangleListColorDreidelBody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Models.TriangleListColorPyramid" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAQAAgAYgGAAAQAAAAEAAAAAAAABAABEBBAIA=</HashCode>
+      <FileName>Models\TriangleListColorPyramid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Models.TriangleListVertexIndexBufferTextureBox" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>glAAGAAQAACAAgAAAAAQAAAAEAAAEAAAAgAAAABAEAQ=</HashCode>
+      <FileName>Models\TriangleListVertexIndexBufferTextureBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Models.TriangleListVertexIndexBufferTextureDreidel" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TriangleListVertexIndexBufferTextureDreidel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Models.TriangleStripTextureBox" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAACAAAAAAAAQAAAAAAAAAAEAAAAACAAAAAAABAAAA=</HashCode>
+      <FileName>Models\TriangleStripTextureBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C16_Ex04_Yakir_201049475_Omer_300471430.Models.TriangleStripTextureDreidel" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TriangleStripTextureDreidel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="C16_Ex04_Yakir_201049475_Omer_300471430.ICamera3DManager" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Infrastructure\Intefaces\ICamera3DManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="C16_Ex03_Yakir_201049475_Omer_300471430.Interfaces.IInputManager" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQBCAAAAAAAAAAAAAAiAAAAAACAAAAAAAgA=</HashCode>
+      <FileName>Infrastructure\Intefaces\IInputManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="C16_Ex04_Yakir_201049475_Omer_300471430.Interfaces.IGameManager" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGameManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="9" />
+</ClassDiagram>
